@@ -19,4 +19,4 @@ A common architectural example that implements best practices for Application La
 
 The architecture will be looked like below diagram.
 
-![alt text](img/aws-kmki-proj.pngimage.jpg)
+![alt text](/img/aws-kmki-proj.png)
