@@ -20,3 +20,40 @@ A common architectural example that implements best practices for Application La
 The architecture will be looked like below diagram.
 
 ![architecture diagram](/img/aws-kmki-proj.png)
+
+The development will be divided mainly into three main areas:
+1. Frontend
+2. Backend + Database
+3. Infrastructure
+
+# This is a project to have a good learning experience for everyone with interest in application development. Don't be scared to make mistakes.
+## Frontend Development
+In this area you will develop a static website for the development as well as deploying an authentication service.
+The technologies you might use:
+- React (JavaScript or TypeScript)
+- Angular
+- Authentication Service e.g : AWS Cognito, JWT
+- HTML
+- CSS
+- Git, Github
+## Backend and Database Development
+In this area you will develop backend services (API and Database).
+The technologies you might use:
+- Python (FastAPI or Flask)
+- Javascript (NodeJS)
+- REST API
+- Relational Database (PostgreSQL or MySQL)
+- Non relational Database (MongoDB or Cassandra)
+- JWT
+- Git, Github
+- Docker
+
+## Infrastructure Development
+In this area you will develop infrastructure in the AWS Cloud.
+The technologies you might use:
+- Terraform or CloudFormation
+- Github Action
+- CI/CD Pipeline
+- Bash scripting
+- Linux
+- AWS services
