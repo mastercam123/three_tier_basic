@@ -8,6 +8,9 @@ The Purpose of this small project is to get hands-on experience regarding web ap
 
 This project will (planned) take up to 6 months with a workload of 5-6 Hours/month.
 This will start in May 2023
+
+## Requirement
+No prior knowledge required. If you have basic programming knowledge it will help you to get a quick grasp of the tasks in the project. I will assist you from the beginning to help you gaining a basic knowledge for each area (Frontend, Backend or Cloud)
 ## Business case
 
 An HR employee want to update the data of the worker in her company. To do this she has to login into the application and afterwards she can update the worker database. Although she can only update the worker database for the company branch where she is employed. To separate the access to specific database there is an authencation service (login) that will allow an HR to access database in her branch. 
