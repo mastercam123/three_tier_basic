@@ -58,6 +58,7 @@ The technologies you might use:
 - JWT
 - Git, Github
 - Docker
+- Postman (API Testing)
 
 ## Infrastructure Development
 In this area you will develop infrastructure in the AWS Cloud.
